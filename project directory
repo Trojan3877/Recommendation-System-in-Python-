@@ -1,0 +1,4 @@
+mkdir recommendation_system_python
+cd recommendation_system_python
+mkdir src data tests
+touch src/recommendation.py src/utils.py tests/test_recommendation.py data/interactions.csv README.md
